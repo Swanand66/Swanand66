@@ -6,7 +6,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swanand66&label=Profile%20views&color=0e75b6&style=flat" alt="swanand66" /> </p>
 
-- 🔭 I’m currently working on **Co-Foundry (Tinder for Founders)s)**
+- 🔭 I’m currently working on **Co-Foundry (Tinder for Founders)**
 
 - 🌱 I’m currently learning **AI Safety & Evaluation**
 
